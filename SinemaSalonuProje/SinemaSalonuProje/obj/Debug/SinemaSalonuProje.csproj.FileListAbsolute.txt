@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\SinemaSalonuProje\SinemaSalonuProje\bin\Debug\SinemaSalonuProje.exe.config
+C:\Users\User\Desktop\SinemaSalonuProje\SinemaSalonuProje\bin\Debug\SinemaSalonuProje.exe
+C:\Users\User\Desktop\SinemaSalonuProje\SinemaSalonuProje\bin\Debug\SinemaSalonuProje.pdb
+C:\Users\User\Desktop\SinemaSalonuProje\SinemaSalonuProje\obj\Debug\SinemaSalonuProje.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\SinemaSalonuProje\SinemaSalonuProje\obj\Debug\SinemaSalonuProje.Form1.resources
+C:\Users\User\Desktop\SinemaSalonuProje\SinemaSalonuProje\obj\Debug\SinemaSalonuProje.Properties.Resources.resources
+C:\Users\User\Desktop\SinemaSalonuProje\SinemaSalonuProje\obj\Debug\SinemaSalonuProje.csproj.GenerateResource.cache
+C:\Users\User\Desktop\SinemaSalonuProje\SinemaSalonuProje\obj\Debug\SinemaSalonuProje.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SinemaSalonuProje\SinemaSalonuProje\obj\Debug\SinemaSalonuProje.exe
+C:\Users\User\Desktop\SinemaSalonuProje\SinemaSalonuProje\obj\Debug\SinemaSalonuProje.pdb
