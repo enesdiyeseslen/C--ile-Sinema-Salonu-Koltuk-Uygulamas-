@@ -1,1 +1,1 @@
-Burada C# dilinde Sinema Bileti Koltuk uygulaması yapmayı amaçladım.
+Burada C# dilinde basic Sinema Bileti Koltuk uygulaması yapmayı amaçladım.
